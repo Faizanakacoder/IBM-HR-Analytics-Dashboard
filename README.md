@@ -77,32 +77,28 @@ gunicorn app:server -b 0.0.0.0:8050
 ## 📸 Dashboard Screenshots
 
 ### Full Dashboard — KPIs, Filters & Top Charts
-<<<<<<< HEAD
-![Full HR Employee Attrition Dashboard showing filters, KPI cards, and Attrition by Department and Age Band charts](1_Full Dashboard — KPIs, Filters & Top Charts.png)
-=======
-![Full HR Employee Attrition Dashboard showing filters, KPI cards, and Attrition by Department and Age Band charts](1.png)
->>>>>>> e4397c8102a7a3de290a9c099bbcfaaeded24f3d
+![Full HR Employee Attrition Dashboard showing filters, KPI cards, and Attrition by Department and Age Band charts](1_Full%20Dashboard%20%E2%80%94%20KPIs%2C%20Filters%20%26%20Top%20Charts.png)
 
 ### Overtime vs Attrition · Attrition Rate by Job Role
-![Donut charts comparing overtime vs non-overtime attrition, and horizontal bar chart of attrition rate by job role](2_Overtime vs Attrition · Attrition Rate by Job Role.png)
+![Donut charts comparing overtime vs non-overtime attrition, and horizontal bar chart of attrition rate by job role](2_Overtime%20vs%20Attrition%20%C2%B7%20Attrition%20Rate%20by%20Job%20Role.png)
 
 ### Monthly Income Distribution · Job Satisfaction vs Attrition
-![Box plot of monthly income split by attrition status, and grouped bar chart of job satisfaction levels vs attrition](3_Monthly Income Distribution · Job Satisfaction vs Attrition.png)
+![Box plot of monthly income split by attrition status, and grouped bar chart of job satisfaction levels vs attrition](3_Monthly%20Income%20Distribution%20%C2%B7%20Job%20Satisfaction%20vs%20Attrition.png)
 
 ### Attrition by Marital Status · Business Travel · Work-Life Balance
-![Three grouped bar charts showing attrition by marital status, business travel frequency, and work-life balance rating](4_Attrition by Marital Status · Business Travel · Work-Life Balance.png)
+![Three grouped bar charts showing attrition by marital status, business travel frequency, and work-life balance rating](4_Attrition%20by%20Marital%20Status%20%C2%B7%20Business%20Travel%20%C2%B7%20Work-Life%20Balance.png)
 
 ### Attrition Heatmap — Years at Company × Job Level
-![Heatmap showing attrition concentration at Job Level 1 and 0–5 years tenure](5_Attrition Heatmap — Years at Company × Job Level.png)
+![Heatmap showing attrition concentration at Job Level 1 and 0–5 years tenure](5_Attrition%20Heatmap%20%E2%80%94%20Years%20at%20Company%20%C3%97%20Job%20Level.png)
 
 ### Employee Detail Table
-![Paginated sortable filterable employee detail table with attrited rows highlighted in red](6_Employee Detail Table.png)
+![Paginated sortable filterable employee detail table with attrited rows highlighted in red](6_Employee%20Detail%20Table.png)
 
 ### Dash Callback Graph
-![Dash callback dependency graph showing 3 filter inputs driving 12 outputs across all charts and KPIs](7_Dash Callback Graph.png)
+![Dash callback dependency graph showing 3 filter inputs driving 12 outputs across all charts and KPIs](7_Dash%20Callback%20Graph.png)
 
 ---
 
-### This project is licensed under the [MIT License](LICENSE). 
+## 📄 License
 
-Dataset © IBM via Kaggle.
+Educational & internship use only. Dataset © IBM via Kaggle.
