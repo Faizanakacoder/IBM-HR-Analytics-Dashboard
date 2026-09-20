@@ -77,25 +77,25 @@ gunicorn app:server -b 0.0.0.0:8050
 ## 📸 Dashboard Screenshots
 
 ### Full Dashboard — KPIs, Filters & Top Charts
-![Full HR Employee Attrition Dashboard showing filters, KPI cards, and Attrition by Department and Age Band charts](_1.png)
+![Full HR Employee Attrition Dashboard showing filters, KPI cards, and Attrition by Department and Age Band charts](1_Full Dashboard — KPIs, Filters & Top Charts.png)
 
 ### Overtime vs Attrition · Attrition Rate by Job Role
-![Donut charts comparing overtime vs non-overtime attrition, and horizontal bar chart of attrition rate by job role](2.png)
+![Donut charts comparing overtime vs non-overtime attrition, and horizontal bar chart of attrition rate by job role](2_Overtime vs Attrition · Attrition Rate by Job Role.png)
 
 ### Monthly Income Distribution · Job Satisfaction vs Attrition
-![Box plot of monthly income split by attrition status, and grouped bar chart of job satisfaction levels vs attrition](3.png)
+![Box plot of monthly income split by attrition status, and grouped bar chart of job satisfaction levels vs attrition](3_Monthly Income Distribution · Job Satisfaction vs Attrition.png)
 
 ### Attrition by Marital Status · Business Travel · Work-Life Balance
-![Three grouped bar charts showing attrition by marital status, business travel frequency, and work-life balance rating](4.png)
+![Three grouped bar charts showing attrition by marital status, business travel frequency, and work-life balance rating](4_Attrition by Marital Status · Business Travel · Work-Life Balance.png)
 
 ### Attrition Heatmap — Years at Company × Job Level
-![Heatmap showing attrition concentration at Job Level 1 and 0–5 years tenure](5.png)
+![Heatmap showing attrition concentration at Job Level 1 and 0–5 years tenure](5_Attrition Heatmap — Years at Company × Job Level.png)
 
 ### Employee Detail Table
-![Paginated sortable filterable employee detail table with attrited rows highlighted in red](6.png)
+![Paginated sortable filterable employee detail table with attrited rows highlighted in red](6_Employee Detail Table.png)
 
 ### Dash Callback Graph
-![Dash callback dependency graph showing 3 filter inputs driving 12 outputs across all charts and KPIs](CallBacks.png)
+![Dash callback dependency graph showing 3 filter inputs driving 12 outputs across all charts and KPIs](7_Dash Callback Graph.png)
 
 ---
 
