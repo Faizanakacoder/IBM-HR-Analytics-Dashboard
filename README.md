@@ -101,4 +101,6 @@ gunicorn app:server -b 0.0.0.0:8050
 
 ## 📄 License
 
-Educational & internship use only. Dataset © IBM via Kaggle.
+This project is licensed under the [MIT License](LICENSE). 
+
+Dataset © IBM via Kaggle.
