@@ -77,7 +77,7 @@ gunicorn app:server -b 0.0.0.0:8050
 ## 📸 Dashboard Screenshots
 
 ### Full Dashboard — KPIs, Filters & Top Charts
-![Full HR Employee Attrition Dashboard showing filters, KPI cards, and Attrition by Department and Age Band charts](_1.png)
+![Full HR Employee Attrition Dashboard showing filters, KPI cards, and Attrition by Department and Age Band charts](1.png)
 
 ### Overtime vs Attrition · Attrition Rate by Job Role
 ![Donut charts comparing overtime vs non-overtime attrition, and horizontal bar chart of attrition rate by job role](2.png)
