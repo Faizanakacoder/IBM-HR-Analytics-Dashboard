@@ -77,7 +77,11 @@ gunicorn app:server -b 0.0.0.0:8050
 ## 📸 Dashboard Screenshots
 
 ### Full Dashboard — KPIs, Filters & Top Charts
+<<<<<<< HEAD
 ![Full HR Employee Attrition Dashboard showing filters, KPI cards, and Attrition by Department and Age Band charts](1_Full Dashboard — KPIs, Filters & Top Charts.png)
+=======
+![Full HR Employee Attrition Dashboard showing filters, KPI cards, and Attrition by Department and Age Band charts](1.png)
+>>>>>>> e4397c8102a7a3de290a9c099bbcfaaeded24f3d
 
 ### Overtime vs Attrition · Attrition Rate by Job Role
 ![Donut charts comparing overtime vs non-overtime attrition, and horizontal bar chart of attrition rate by job role](2_Overtime vs Attrition · Attrition Rate by Job Role.png)
@@ -99,6 +103,6 @@ gunicorn app:server -b 0.0.0.0:8050
 
 ---
 
-## 📄 License
+### This project is licensed under the [MIT License](LICENSE). 
 
-Educational & internship use only. Dataset © IBM via Kaggle.
+Dataset © IBM via Kaggle.
