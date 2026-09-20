@@ -27,7 +27,7 @@ cd <project-folder>
 ### 2. Place the Dataset
 Download the dataset from the link below and place the CSV file in the **same directory** as `app.py`:
 
-> 📁 **Dataset:** [IBM HR Analytics Employee Attrition & Performance — Kaggle](<PASTE_DATASET_LINK_HERE>)
+> 📁 **Dataset:** [IBM HR Analytics Employee Attrition & Performance — Kaggle]
 
 The file must be named exactly:
 ```
